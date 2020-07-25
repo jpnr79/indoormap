@@ -1,2 +1,2 @@
 # indoormap
-Indoor Map to GLPI
+IndoorMap to GLPI
